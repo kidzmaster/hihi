@@ -1,0 +1,1700 @@
+
+
+
+@media screen and (max-width: 1080px) {
+    #chuong-trinh-toan-cau ,.ddw {
+        float:left!important;
+        margin-top:0!important;
+    }
+    /*.splogo {
+        width:initial!important;
+    }*/
+    .splogo {
+            width: 97px!important;
+    float: left!important;
+    margin-left: 70px!important;
+    }
+    .honeHeader {
+        float:left;
+        width:100%; background:#fff;
+    }
+.ddw .span3 {
+    width: 21%!important;
+    margin: 10px 2%!important;
+}
+    .form-dangky .span11 {
+            margin-left: 0!important;
+    padding: 0 10px!important;
+    width: initial!important;
+    }
+     .form-dangky  .table {
+         width: 100%!important;
+    }
+
+    .form-dangky   .span11  div {
+         width: initial!important;
+    }
+
+    .quangcaolienhe .row-fluid {
+   text-align:center;
+}
+   
+  .lienhechuai  .form-horizontal .control-group {
+    margin-bottom: 7px;
+}
+    .ulspan7 {
+        margin-left:0!important;
+    }
+    .span8 > .pagecontent {
+        margin-left:0;
+    }
+    #trangchu .frame-title a h2:before,.frame-title  h2::before {
+    content: "\f0c9";
+    font-size: 1em;
+    color: #005b99;
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    margin-right: 10px;
+}
+
+    #trangchu .video-new * {
+         position:initial!important;
+    }
+    #trangchu .video-new .aright { 
+        float:right;width:100px; text-align:right;
+    }
+   #trangchu .video-new .aright a {
+    float: right;
+    padding-right: 13px;
+}
+     #trangchu .video-new .aright i{ 
+        margin-right:5px!important;
+    }
+    .cac-hoat-dong-dao-tao .hoat-dong-dao-tao-item-title {
+        margin-top:0!important;
+    }
+    .gioithieu-font ul li{
+        float:none!important;
+        width:32%!important;
+        margin:0!important; padding:0!important;
+    }
+    .gioithieu-font ul{
+        float:left!important;
+        width:100%!important;
+        text-align:center;
+    }
+    .gioithieu-font td {
+    vertical-align: top;
+    width: 100%!important;
+    float: left!important;
+    margin: 0!important;
+    padding: 0!important;
+}
+    #hoatdongdaotaomb  .active .hoat-dong-dao-tao-item-title a {
+    color: #fcd42e!important;
+    }
+    .gioithieu-font .linkmore {
+    float:right;position:initial!important;
+    }
+    #RegisterForm {
+            padding-bottom: 10px;
+    float: left;
+    width: 100%;
+    }
+    .mbww100 {
+    float:left;
+    width:100%!important; margin:0!important;
+    }
+    .row-fluid .donghanhitem {
+        float:left!important;
+        width:96%!important;
+        padding:0 2%!important; 
+    }
+    .row-fluid .linkmore {
+    right:initial!important;
+    }
+    #daotaohcm {
+        width:100%;
+    }
+    .tu-sach {
+        float:left!important; width:50%!important;
+    }
+ .title-ngoinhachung a {
+    font-size: 12px!important;
+    padding: 5px 0;
+    float: left;
+    width: 100%;
+    text-align: center;
+    text-decoration: underline;
+}
+ #ngoinhachung .active a, #ngoinhachung td:hover a {
+    text-decoration: none;
+}
+   
+#ngoinhachung {
+     max-height: initial!important;  background:none;
+}#ngoinhachung h2 {
+    color: #d3e51f;
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 18px 0 0 0px;
+    text-align: left;
+    text-transform: uppercase; 
+    width: 99%;
+    padding-left:1%;
+}
+    .hinhanhkhoahoc p{ 
+        text-align:left!important;
+    }
+    .mbma_headww {
+        margin-top: 0!important;
+    }
+    #ngoinhachung  .sep{
+   display:none!important;
+}
+    #ngoinhachung td {
+    margin-top: 6px;
+    width: 26%!important;
+    float: none!important;
+    padding: 10px 2%!important;
+    text-align: center;
+    display: inline-table!important;
+}.icon_ngoinhachung {
+    color: #fff!important;
+    float: right;    text-decoration: underline;
+    font: 15px Arial;
+    margin: 10px;
+}
+    .title-ngoinhachung , .title-ngoinhachung tbody, .title-ngoinhachung tr{
+    width:100%;
+    }
+    .span8 > .pagecontent {
+    margin-top: 0 !important;
+    float: left;
+    width: 100%;
+    overflow-x: scroll;
+}
+    #ngoinhachung h2 {       background: rgb(3, 110, 166); margin-bottom:10px;
+    height:initial!important; float:left; font-size:15px;width:98%!important; padding:0 1%;
+    }
+    .title-ngoinhachung tbody {
+    text-align:center!important;
+    
+    }
+    .mbma_head {
+        display: none;
+    }
+
+    .daotaoriengtheoyeucau {
+        background: none;
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    .danh-muc-daotaotheoyeucau ul > .active {
+    background:none;
+    }
+    .content-program table td {
+    padding: 5px 2%!important;
+
+}
+    .content-program ul,.content-program p {
+        float:left;
+        width:100%;
+    }
+    .bangianghuan td {
+    margin:0!important;
+    min-height:initial!important; padding:10px 1%!important;
+    }
+    .cac-hoat-dong-dao-tao .tab-title, .tu-sach-doanh-tri .tab-title {
+        display:none;
+    }
+    .cac-hoat-dong-dao-tao .hoat-dong-dao-tao-item-img {
+    background: #c2c2c2 none repeat scroll 0 0;
+    border-radius: 50%;
+    height: 70px!important;
+    margin: 0 auto;
+    text-align: center;
+    width: 70px;
+}.book_img {
+    margin-top: 20px !important;
+    width: 39px !important;
+}#GuiYeuCauDaoTaoInHouse .input-xxlarge {
+    width: 95%;
+}
+    .NhomChuongTrinhInHouse td {
+    padding-top: 2px;
+    vertical-align: top;
+    float: left;
+}.bggui ul > .active {
+    background:none!important;
+}
+.chuongtrinhdaotao-blue .ccdt-item-w {
+    background: #f9f9f9 url("Images/hoz-line.jpg") no-repeat scroll center bottom;
+     height: initial; 
+    margin-bottom: 3px;
+    padding: 8px 0 8px;
+}
+    .table-striped tbody tr:nth-child(odd), .table-striped tbody tr:nth-child(odd){
+    background-color: #f1f1f1;
+}
+    .tusach-page .span4, .tusach-page .span8{
+        float:left;
+        margin:0; padding:0; width:100%;
+    }
+    .tsdtri li { clear:none!important;
+        float:none!important;width:45%!important; margin:0; padding:0 2%; display:inline-table;
+    }
+   
+    .dkdaotao > div {
+
+    width:100%!important; margin:0!important; padding:!important;
+    }
+     #dangkythamduchuongtrinh  .red {
+        color: Red!important;
+        text-align: left;
+        float: left;
+        width: 100%;
+        margin: 10px 0;
+    }
+    .span4 a {
+       height:initial!important;
+    }
+    .mbw100 {
+        width:100%!important;
+    }
+    #ChiaSe_parent * {
+        max-width:100%!important;
+    }
+    #ChiaSe {
+        max-width:100%!important;
+    }
+    #ChiaSe_tbl {
+        width:100%!important;
+    }
+
+    .sotay-right-item .linkmore {
+        position:initial!important;
+        bottom:initial;
+    }
+    .tintuc-sk1  .article-item-top, .sotay-right-item {
+    float: none;
+    width: 45%!important;
+    margin: 10px 2%!important;
+    padding: 0!important;
+    display: inline-table;
+}
+   .mbw100{
+    margin-left:0!important;
+}
+   .tintuc-sk1 img {
+
+    height: initial!important;
+}
+    .diengia  img {
+    vertical-align: inherit !important;
+    float: none;
+    width: 150px;
+    vertical-align: top;
+}
+    .diengia div {
+        float:left!important; margin:0;
+        width:100%!important; text-align:center;
+    }
+   
+    #listvideos li .thumbnail {
+    height: initial !important;
+}
+    .caption {
+        height:initial!important;
+    }
+    .titlenb {
+        float:left;
+        width:100%;
+        margin-top:20px;
+    }
+    .trang1 {
+        float:left;
+        width:45%!important;
+        margin:10px 2%!important; padding:0!important;
+    }
+    .diengia {
+        text-align:center;
+    }
+    .class122 ,.class129,.class120{
+        margin-top:0!important;
+    }
+    .book-info-sumary .linkmore02 {
+
+    width: 73px;
+}
+   .tuydug .controls img {
+    float: left!important;
+}
+      .tuydug .input-xlarge {
+    width: 90%!important;
+}
+    .tuydug   select {
+    width: 94%!important;
+        padding: 4px 6px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+}
+   #tuyendung-content .form-horizontal .controls {
+    margin-left: 5%;
+    width:70%!important;
+}
+      #tuyendung-content .form-horizontal lable {
+    width:25%!important;
+}
+    #tu-sach-doanh-tri li {
+    display: inline-table !important;
+    float: none !important;
+    vertical-align: top !important;
+    width:49% !important; margin:10px 0!important;
+}
+    .class124 { margin-top:0!important;
+    }
+        .tu-sach-doanh-tri ul {
+       text-align:center; margin:0; width:100%;
+    }
+    .tu-sach-doanh-tri li {
+        display:inline-table; width:33%; list-style:none; margin:10px 0;
+    }
+    .content-program {
+        padding-left:0!important;
+    }
+.group-emba div ,.group-emba ul,.content-program div{
+ 
+   margin:initial; height:initial!important;
+}
+.content-program ul {
+     padding-left:3%; width:93%!important; 
+}
+#hoatdongdaotaomb ul {
+     padding-left:0%; width:100%!important;margin-top:20px!important;
+}
+    #RegisterForm div {
+        text-align:initial!important;
+    }
+.content-program ul li{
+    float:left;
+}
+    .group-emba {
+        margin-top:20px;
+    }
+    .danh-muc-daotaotheoyeucau {
+        float:left;
+        margin-bottom:20px;
+    }
+    #HoiDap label {
+        text-align:left!important;
+    }
+    .lienhechuai {
+        float:left;
+        margin-top:20px;
+    }
+    .form-lienhe .input-xlarge,#captcha {
+    width:90%;
+    }
+    #quotebox {
+    box-shadow: 0 4px 5px #ccc;
+    text-align: center;
+    vertical-align: middle;
+    float: left;
+    width: 100%;
+}
+    .mapgoogle {
+        margin-top:0!important;
+    }
+    .bo-chuong-trinh-title  {
+        margin-bottom:20px!important;
+    }
+    .text-ct {
+        text-align:center;
+    }
+      .article-item .span8 {
+   margin-left: 0; float:none;
+   width:initial;padding-left:5px;
+}
+              .article-item .span4 {
+ width:33%; margin-right:15px;
+}
+        .article-item img {
+ width:100%; margin-right:5px;
+}
+         .content-program img{
+   margin:10px 0; 
+  
+}
+
+    .content-program > div{
+        width:100%!important; float:left;margin-bottom:20px;
+    }
+.group-emba img{
+   margin:10px 0; width:100%;
+  
+}
+    .span6 {
+        margin-left:0!important;
+    }
+    .ulDangKy li {
+        float:left;
+        width:48%;
+        margin:10px 1% 20px 1%; padding:10px 0; text-align:center;
+    }
+
+    .course_right {
+    float: right;
+    width: 231px;
+}
+    .course_right .btn-register {
+    margin-top: 9px;
+}
+    .commingcourses,.p_span84 {
+        float:left;   
+        width:100%!important;
+    }
+    .commingcourses { background: #f0f0f0;
+    }
+    .bg-course {
+
+    float: none;
+    padding: 10px 20px;height: 220px;
+    width: 780px; margin:auto!important
+}
+    label b {
+    float:left; margin-right:26px;
+    }
+    #ThongTinVietHoaDon {
+        float:left!important; margin-right:initial!important;
+    }
+    #content-thongtinhoadon {
+        width:100%!important;
+    }
+    .daotaobread {
+        margin-top:0!important;
+    }
+    .p_span84 {
+        margin-left:0!important;
+    }
+    .donghanhsuhoc {border-top:dotted 1px #808080; margin-top:20px; float:left;
+    }.donghanh-item-title a {
+    color: #025483;
+
+}
+    .donghanh-title {
+    margin: 20px auto;
+}
+    .rightr{float:right!important;    width: initial!important;}
+    .pushmenu-push-toright {
+    left: 152px;
+    z-index: 10001;
+}
+    .pushmenu-open {
+    left: 0!important;
+}
+     #box_col_left {
+    display: block;
+}
+    .btn_control_col_left {
+        display:block;
+    }
+    #listChuongTrinhCommingNB {
+        float:left;
+        width:100%;
+    }
+    .CommingNB {
+        float:left;    background-color: #ebebeb;
+        width:100%; margin:0;
+    }
+   .CommingNB li ul {
+        padding:0;margin-left: 16px;
+        
+    }
+      .CommingNB>li {
+
+    float: left;
+    list-style: none;
+    width: 49%!important;
+    padding: 0 0 0 1%!important;
+    margin: 0!important;
+
+    }
+    .CommingNB ul li {
+           padding: 10px 0;
+      list-style-type: disc;color:#005387;
+    } 
+       .CommingNB li:nth-child(even),.trang {  
+           background-color:#ebebeb;
+    }
+        .CommingNB li:nth-child(odd),.xam {  
+           background-color:#d6dde0;
+    }
+         .CommingNB li:nth-child(even) li {  
+           background-color:#ebebeb;
+    }
+        .CommingNB li:nth-child(odd) li {  
+           background-color:#d6dde0;
+    }
+        .xam, .xam li {  
+           background-color:#d6dde0!important;
+    }
+        .trang, .trang li {  
+           background-color:#ebebeb!important;
+    }
+    body {
+        font-size:15px;
+        overflow-x:hidden!important;
+    }
+    #trangchu .frame-title {
+    margin: 25px 0 5px 0;
+}
+    #trangchu .chuyen-nganh-dao-tao ul li {
+    line-height: 25px;
+    color: #005387;
+}
+    #trangchu .chuyen-nganh-dao-tao {
+    height: 230px;
+    padding: 25px;
+
+}
+    #trangchu .dao-tao-theo-yeu-cau {
+    height: 230px;
+    padding:25px;
+}
+    .chuyen-nganh-dao-tao ul {
+        margin-top:0!important;
+    }
+  #trangchu .chuyen-nganh-dao-tao ul li a,.dao-tao-theo-yeu-cau p {
+    font-size: 15px!important;
+}
+  .dao-tao-theo-yeu-cau p {
+    line-height:25px!important;    margin-top: 22px!important;    
+}
+    #fade {
+        margin-top:0!important;
+        max-height:65px!important;
+    }
+    #navigator {display:none;
+    }
+    .home-top-tin .span3 {
+        width: 48%;
+    float: left;
+    margin: 0 1%!important;
+    padding: 0;
+}
+    #ChuongTrinhToanCau .prev3, #ChuongTrinhToanCau .next3 { display:none!important
+    }
+    #ChuongTrinhToanCau ul li {
+    float: left;
+    list-style: outside none none;
+    margin:5px 2%;
+    padding: 0;
+    position: relative;
+    width: 43%;
+    background:url('images/i1.jpg') left 6px no-repeat;
+    padding-left:15px;    
+    }
+    #ChuongTrinhToanCau ul li {
+        font-size: 15px;
+    }
+    .chinh_hide {
+    display:block;
+    }
+     .hanoichuongtrinh .moblie_hide {
+    display:block!important;
+    }
+    .moblie_hide {
+    display:none;
+    }
+  
+    .donghanh-item-title a {
+
+    font-size: 14px;
+}
+    .class115 {
+    margin-top:0!important;
+    }
+.container-1000 {
+    width: 98%!important; max-width:98%!important;
+    margin: 0 1%!important; overflow:hidden;
+    padding: 0!important; float:left;
+
+}
+    * {
+        max-width:100%;
+    }
+    .englishen {
+        color:#fff!important;
+        background:#005387;
+        padding:5px; float:right;    text-decoration: none!important;
+    }
+    #ChuongTrinhToanCau .caroufredsel_wrapper {
+        min-width:initial;
+    }
+    #quotebox #fade {
+    float: none;
+    width: 80%;
+    max-height:80px!important
+}
+    #tusach .caroufredsel_wrapper {
+    width:100%!important;
+    }
+    .program-description {
+    padding: 0;
+    position: initial;
+    text-align: justify!important;
+    top: 0; color:#005387; float:left;
+    margin-top:10px!important;line-height: 22px!important; font-size:15px!important;
+}
+        .program-description p{
+    text-align: justify!important;line-height: 22px!important;font-size:15px!important; margin-top:0!important;
+}
+    .partner-descreption * {
+        font-size:13px!important;
+    }
+    .tusach .prev2, .tusach .next2 {
+        display:none!important;
+    }
+    #tusach ul li {
+    padding: 0;
+
+    width: 20%;
+}
+    #tusach .thumbnail > img {
+    height: initial!important;
+}
+    #trangchu .span6 {
+         padding: 0; margin:10px 0px!important;
+
+    width: 100%;    width: 100%!important;
+    }
+    .program-logo img {
+        width:100%;
+    }
+   .guru-item span{
+        float:left;
+        width:100%; text-align:center;
+    }
+    .bg-donghanhcungpace .row-fluid img {
+    vertical-align: inherit !important;
+    float: left!important;
+    width: 47%!important;
+}
+
+    .guru-item .guru-name-2, .guru-name-4 , .guru-name-3{
+    position: initial!important;
+    right: 0!important;
+    top: 0px!important;
+}
+    .guru-item {vertical-align: top;
+    width: 24.5%!important;
+    display: inline-table!important;
+    margin: 0!important;
+    float: none!important; text-align:center!important;
+    padding: 0!important;
+}
+    .diengia {
+        float:none!important;
+    }
+    .daveulrich {
+    float: left;
+    margin-top: 0px;
+}.paulkrugman {
+    float: left;
+    margin-top: 0px;
+}
+    .daveulrich {
+    float: left;
+    margin-top: 0px;
+}
+    .rarticle-item .span8 {
+   margin-left: 0; float:none;
+   width:initial;padding-left:5px;
+}
+    .thumbnail > img {
+    display: block;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+    .bg-donghanhcungpace {
+    background: none;    overflow: hidden;
+    margin-top: 20px;
+}
+    .xemtiep {
+
+    width: 76px;
+}
+   .row-fluid .span6 {
+    width: 100%;margin-bottom: 20px;
+}
+  
+    .diengia div {
+         float: left!important; position:relative!important;
+    }
+    .header-guru {
+    margin-bottom: 20px;
+}
+    .tt1 {
+        width:20%!important; margin:0 4% 0 0!important;
+    }
+    .description-guru {
+        margin:0; padding:0;
+    }
+    .tt2 { width:76%!important; margin:0!important;
+    }
+    .title-guru h2 {
+
+    margin: 5px 0;
+
+}
+    #videoclips {float:left;
+                 width:100%;
+    }
+   .daotaotrang .slogan-daotao {
+    color: #005b99;
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 0;
+    text-align: center; float:left;
+    width:100%;
+    margin-top: 20px;
+}
+   .daotaotrang  .cac-hoat-dong-dao-tao .hoat-dong-dao-tao-item-img {
+    background: #c2c2c2 none repeat scroll 0 0;
+    border-radius: 50%;
+    height: 70px;
+    margin: 0 auto;
+    text-align: center;
+    width: 70px;
+}
+    .cac-bo-chuong-trinh {
+    margin-top: 50px;
+    float: left;
+}
+    .tab-title {
+    background: rgba(0, 0, 0, 0) url("images/bg-header.jpg") no-repeat scroll center bottom;
+    color: #005387;
+    font-size: 15px;
+    height: initial;
+    text-align: center; padding-bottom:40px;
+    text-transform: uppercase;
+}
+        .tt2 * ,.title-guru{
+width:100%!important;
+        }
+    
+        .btn_control_col_left {
+    display: block;
+} #hoatdongdaotaomb ul {
+        margin:0;
+    }
+    #hoatdongdaotaomb li {     text-align: left;
+    background: #005b99;
+    width: 100%;
+    float: left;
+    list-style: none;
+    padding: 10px;
+    border-bottom: solid 1px #fff;
+    border-right: solid 1px #fff;
+    }
+        #hoatdongdaotaomb li * {
+              color: #015289;
+        }
+        .menu-tab-chuongtrinh {
+    text-align: center;
+}
+        .cac-hoat-dong-dao-tao  .active a {
+       color: #f36f21!important;
+}
+   #hoatdongdaotaomb .hoat-dong-dao-tao-item-img {
+    float:left; margin-right:15px; padding:10px!important; width:initial!important; height:initial!important;
+}
+.hoat-dong-dao-tao-item-img a img {
+    margin-top: 0!important;
+    width: 30px!important;
+}
+  .daotaotrang  .cac-bo-chuong-trinh {
+    margin-top: 0; 
+    float: left;
+}
+    .cttcmb li {
+        width:98%!important; max-width:initial!important; margin:0!important; padding:0!important; float:left;
+    }
+    .chuongtrinhtoancau-font .program-title a {
+    font-size: 15px!important;line-height: 24px;
+}
+    .img-banner-program {
+    margin: 0 auto;
+    text-align: center;
+    float: left;
+    width: 100%;
+}
+    .row-fluid .p_span48 {
+    width: 100%;
+}
+    .paddingtop li {
+    padding: 0 0 0 8%!important;
+    display: inline-table;
+    width: 35%;    height: initial;
+}
+ 
+    .winitial {
+        width:initial!important; 
+    }
+    .w65 {
+        float:none;
+        width:65%!important;
+    }
+    .w35 { width:35%!important; float:none;
+    }
+    .hnhcm-nb li {
+        float:left; margin:0 1%;
+        width:48%; text-align:center; list-style:none; background:#d6dde0;
+    }
+     .hnhcm-nb li a{
+        text-align:center; width:100%; color:#fa6e00; font-size:15px;
+    }
+        .hnhcm-nb ul {
+        float:left;
+        width:100%; margin:10px 0;
+    }
+ #tin-tuc-su-kien .article-item {
+    width: 45%;
+    margin: 0 2%; display:inline-block; vertical-align:top;
+    float: none;
+}
+  #video ul  {
+text-align:center;
+}
+    .du-an-item .du-an-item-sumary {
+        padding:0; margin:0;
+    }
+    .box-gioi-thieu-ipl,.box-gioi-thieu-ipl1 {
+ 
+        height:initial;
+    }
+    .du-an-sach-hay {
+    margin-top: 20px;
+    float: left;
+    width: 100%;
+}
+    .option {
+        float:left;
+        width:100%;       background:none;
+    }
+    .bg-xam{
+        float:left;
+        width:100%;
+    }
+ #video ul li {
+    display: inline-block!important;
+    float: none!important;
+    list-style: outside none none!important;
+    /* margin-right: 10px; */
+    padding: 0!important;
+    position: relative!important;
+    width: 32%!important; vertical-align:top;
+    MARGIN: 10PX 0!important;
+}
+    .option .span8 {
+        float:left;
+        width:100%;
+    }
+    .box-gioi-thieu-ipl {
+        background:none;
+    }
+    .tuydug {
+        margin-top:20px!important;
+    }
+    .doi-tac-toan-cau-right .doi-tac-toan-cau-item {
+    width: 45%!important;
+    margin: 10px 2%!important;
+    float: none!important;
+    display: inline-block!important;
+}
+    .p_span48 {
+    float:left;
+    width:100%; margin-left:0!important;
+    }
+    #ContactForm .control-label{
+        width:30%!important; float:left!important;
+    }
+    #ContactForm   .control-group {
+        float:left;
+        width:100%;
+    }
+    .controls img {
+        float:right;
+    }
+   #ContactForm   .controls {
+    width: 65%!important;
+    margin-left:5%!important;float:left!important;
+}
+    .article-item-top a {
+        width:90%
+    }
+    .span8 {
+    float:left; width:100%!important;
+    }
+    .breadcrumb {
+        float:left;    margin-top: 0;
+    }
+    .article-new .span8 { float:none;
+    }
+    .tintucmoinhat img {
+    width: 100%!important;
+    height: initial!important;
+}
+    #daotaoriengtheoyeucau .span4 , #daotaoriengtheoyeucau .span8{ float:left; width:100%!important; margin:0;
+    }
+    
+   .dkdaotao .input-xlarge {
+    width: 90%; padding: 5px 1%;
+}
+   .dkdaotao select {
+    width: 92%!important; padding: 5px 1%;
+} .dkdaotao .controls img {
+    float: left;
+}
+  .bo-chuong-trinh-title {
+        width: 95%!important;
+    margin: 10px 0 0 0px;
+    height: initial!important;
+    padding: 10px 0 10px 3%!important;
+    }
+    .social-button .span6 {
+        float:left; width:initial!important;
+    }
+}
+
+@media screen and (max-width: 800px) {
+       .ddw .span3 {
+    width: 46%!important;
+    margin: 10px 2%!important;
+}
+    #hoatdongdaotao {
+        text-align:center;
+    }
+    .cac-hoat-dong-dao-tao table td {
+    display: table-cell;
+    margin: 10px 1%;
+    text-align: center;
+    vertical-align: top;
+    width: 46%;
+    display: inline-block;
+}
+    .lienhechuai .span4,.mapgoogle, .mapgoogle iframe {
+        width:100%!important; margin:0;
+    }
+    .mapgoogle iframe {
+       margin:10px 0;
+    }
+    .donghanhitem {
+        width:31%!important; margin:10px 1%!important; padding:0!important;
+            float: none!important;
+
+    display: inline-table;
+    }
+     .donghanhitem a{
+        width:100%!important; height:initial!important;
+    }
+     .donghanhitem img{
+        width:100%!important; height:initial!important; margin:10px 1%!important; padding:0!important;
+    }
+    .du-an-phi-loi-nhuan table td {
+    display: inline-table;
+    text-align: center;
+    width: 49%; float:none; padding:10px 0;
+}
+     #tin-tuc-su-kien .article-item {
+    width: 100%;
+    margin: 0;
+    float: left;
+}
+     .course_right {
+    float: right;
+    width: 231px;
+}
+    .course_right .btn-register {
+    margin-top: 9px;
+}
+    .commingcourses,.p_span84 {
+        float:left;   
+        width:100%!important;
+    }
+    .commingcourses { background: #f0f0f0;
+    }
+    .bg-course {
+
+    float: left;
+    padding: 10px 5%;height: initial;
+    width: 90%; margin:auto!important
+}
+     .guru-item { text-align:center;
+        width:49.5%!important; display:inline-table!important;
+        margin:0!important; float:none!important;
+        padding:0!important;
+    }  
+    .bg-donghanhcungpace  .row-fluid img {
+    vertical-align: inherit !important;
+    float: left!important; width:60%!important;
+}
+ .guru-item .guru-name-2 ,.guru-name-4{
+    position: initial!important;
+    right: 0!important;
+    top: 0px!important;
+    width: 100px;
+}
+ .chuongtrinhtoancau-font{
+    background: rgba(0, 0, 0, 0) url("images/bg-xam.jpg") repeat scroll 0 0;
+    padding: 10px 0 20px 0;
+    width: 100%;
+    margin-top: 0px;
+}
+ .content-program ul li {
+    float: left;
+    width: 100%;
+}
+
+}
+@media screen and (max-width: 720px) {
+    .course_right, .course_left {
+        width:100%; margin:10px 0;  border:0;    text-align: center;
+    }
+    .course_right .btn-register {
+    margin-top: 9px;
+    margin: auto;
+    float: none;
+}
+    .bg-course ul {
+    border-right: none;
+    float: left;
+    margin: 0;
+    padding: 0 20px 0 0;
+    width: 100%;
+    margin-bottom: 20px;
+}
+}
+@media screen and (max-width: 640px) {
+    .sotay-right-item {
+        width:96%!important;
+    }
+      .sotay-right-item img{
+        width:100%!important;
+    }
+      .tu-sach {
+        float:left!important; width:100%!important;
+    }
+     .nncheader {
+        background: none;
+    }
+     .dkdaotao .control-label , .dkdaotao .controls{    float:left;
+    margin-left:0;text-align:left!important;
+    float:left; width:100%;
+    }
+    .tsdtri li { clear:none!important;
+        float:left!important;width:100%!important; margin:0; padding:0; 
+    }
+       .tintuc-sk1 .article-item-top {
+    float: none;
+    width: 100%!important;
+    margin: 10px 0%!important;
+    padding: 0!important;
+    display: inline-table;
+}
+   .tintuc-sk1    .span8 {
+    float: left;
+    width: 100%!important; padding:0!important;
+}
+     .tintuc-sk1   .article-item-title1 {
+         margin-top:10px;
+    }
+    .du-an-phi-loi-nhuan-title {
+   height:initial;
+}
+     #video ul li {
+    display: inline-block!important;
+    float: none!important;
+    list-style: outside none none!important;
+    /* margin-right: 10px; */
+    padding: 0!important;
+    position: relative!important;
+    width: 48%!important; vertical-align:top;
+    MARGIN: 10PX 0!important;
+}
+    .row-fluid .span3 { margin-left:0!important;
+    }
+    .bg-course ul li span{
+    float: left; margin:0!important;
+    width: 50%;
+}
+     .paddingtop li {
+    padding: 0 0 0 10%!important;
+    display: inline-table;
+    width: 39%;    height: initial;
+}
+    .w20 {
+        display:none;
+    }
+    .gioithieu-font td {
+        float:left; 
+        width:100%!important; height:initial!important; padding:0!important;
+    }
+       .gioithieu-font td img{
+      
+        width:100%!important;
+    }
+    .CommingNB li:nth-child(odd), .xam {
+    background-color: #d6dde0!IMPORTANT;
+}
+    .CommingNB li:nth-child(even), .trang {
+    background-color: #ebebeb!important;
+}
+     .CommingNB li:nth-child(odd) li{
+    background-color: #d6dde0!IMPORTANT;
+}
+    .CommingNB li:nth-child(even) li{
+    background-color:#ebebeb!important
+}
+    .CommingNB>li {
+    float: left;
+    list-style: none;
+    width:99%!important;
+    padding:10px 0 10px 1%!important;
+    margin: 0!important;
+
+}
+    .pbbb {
+        position:absolute;
+        right:0;
+        top:0PX; cursor:pointer;
+    }
+    .centermb {
+        text-align:center;
+    }
+    .splogo{
+        float:none!important; margin:auto!important;
+    }
+        .rightr{display:none!important;  }
+    #listChuongTrinhCommingNB .program-item,#listChuongTrinhCommingNB .span9 {
+        float:left;
+        width:100%!important; padding:0; margin:0;
+    }
+   #listChuongTrinhCommingNB .linkmore {
+    position:initial!important;
+}
+    .partner-descreption {
+
+    margin-top: 0;
+}
+    #ChuongTrinhToanCau ul li {
+        width:94%;
+    }
+        #quotebox #fade {
+    max-height:95px!important
+}
+
+    .doitactoancaucuapace .span4 {
+            width: 100%;
+    margin: 10px 0;
+    }
+   .doitactoancaucuapace  .partner {
+    display: block;
+    max-width: 100%;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    float: left;
+    width: 23%;
+    margin-right: 2%;
+
+}
+
+       .home-top-tin .span3 {
+    width: 100%;
+    float: left;
+    margin: 0!important;
+    padding: 0;
+}
+  
+#trangchu .chuyen-nganh-dao-tao {
+    background: none;
+    height: initial; float:left;
+    width:100%;
+    padding:0 0 10px 0;border-bottom:dotted 1px #808080;
+}
+.chuyen-nganh-dao-tao .linkmore, .dao-tao-theo-yeu-cau .linkmore,.article-new .linkmore {
+    margin-right: 7px !important;
+    position:initial; float:right; 
+}
+#trangchu .chuyen-nganh-dao-tao ul{
+   padding-left:25px; margin:0;
+}
+#trangchu .dao-tao-theo-yeu-cau,.tintucmoinhat {
+    background: none;
+     float:left; display:initial;
+    height: initial;
+   padding:0 0 10px 0; border-bottom:dotted 1px #808080;
+}
+    #listChuongTrinhCommingNB { 
+     float:left; display:initial;
+    height: initial;
+   padding:0 0 20px 0; border-bottom:dotted 1px #808080;
+    }
+#trangchu .dao-tao-theo-yeu-cau div,#trangchu .dao-tao-theo-yeu-cau p{
+ 
+     float:left; margin:0!important; padding:0!important;
+   
+}
+    .tintucmoinhat img {
+           width: 100%!important;
+        height:initial!important;
+    }
+    .span4 a {
+        height:initial!important;    
+    }
+    .article-item-title a {
+    color: #262626;
+    font-size: 13px;
+}
+    #trangchu .frame-title {
+    margin: 15px 0 5px 0;
+}
+    .tinhome {
+
+    margin-top: 0px;
+}
+    .article-item-title a {
+        color: #262626;
+        font-weight: bold;
+        font-size: 15px;
+        float: left;
+        margin-top: 15px;
+        line-height: 24px; 
+    }
+     .article-new .span8 {
+    float:left!important; width:65%!important;
+}
+   .tintuc-sk1  .article-item-title1 {
+      float:left;
+    }
+   .tintuc-sk1 .imggg {
+        float:left;
+        width:100%; margin:0!important;
+    }
+    .tintuc-sk1 .span4,.tintuc-sk1 .span8 { left:0!important;
+        float:left;
+        margin:0!important; width:100%!important;
+    }
+     .tintuc-sk1 a {
+
+        float: left;
+        margin-top: 0px;
+        width:100%!important;
+    }
+    .tintuc-sk1 article-item-top {
+        margin:0!important; float:left;
+        width:initial!important;
+    }
+  .article-item-title1 a {
+        color: #262626;
+        font-weight: normal; width:100%; 
+        font-size: 15px;
+        float: left;
+        margin-top: 0px;
+        line-height: 24px;
+    }
+    .footer * {
+        overflow:hidden;
+    }
+    .description-guru {
+    padding: 0;
+}
+     .header-guru {
+    margin-bottom: 0px;
+}
+    .philipkotler {
+    float: left;
+    margin-top: -5px;
+}
+   .guru-item .guru-name-2 ,.guru-name-4,.guru-name-1,.guru-name-3{
+    position: initial!important;
+    right: 0!important;
+    top: 0px!important;
+    width: 100%!important; text-align:center!important;
+}
+    .tintuc-sk1   .article-new , .tintuc-sk1  .article-new div{
+        float:left;
+        width:100%!important;
+    }
+   .guru-item span {
+    color: #959595;
+    float: none!important;
+    line-height: 14px;
+    margin-top: 7px;
+} .bg-donghanhcungpace  .row-fluid img {
+        float:none!important; margin:auto!important;
+    }
+    .guru-item {
+        text-align:center!important;
+    }
+    .daveulrich {
+    float: left;
+    margin-top: 0;
+}
+     .donghanh-item {
+    width: 50%!important;
+    margin: 0!important;
+}
+    .lastc {
+        display:none;
+    } .icon-chuong-trinh-lien-quan{display:none}
+      #tu-sach-doanh-tri li {
+
+    float: left !important;
+    width: 100% !important;
+    margin: 10px 0!important;
+}  .hanoichuongtrinh .moblie_hide {
+    width:16px!important;
+    }
+   #HoiDap .controls {
+    float: left;
+    margin-left: 0px;    width: 100%;
+}
+  #HoiDap .input-xlarge {
+    width: 95%; padding:5px 2%;
+}
+   #GuiYeuCauDaoTaoInHouse   .control-group {
+    margin: 10px 0  7px 0;
+}
+   #GuiYeuCauDaoTaoInHouse .controls {
+    margin-left: 0;
+}#GuiYeuCauDaoTaoInHouse  .control-label {
+    text-align: left;
+}
+  #ngoinhachung td {
+    margin-top: 6px;
+    width: 42%!important;
+    float: none!important;
+    padding: 10px 2%!important;
+    text-align: center;
+    display: inline-table!important;
+}
+       
+}
+@media screen and (max-width: 560px) {
+    .chuongtrinh-public .w60 {
+        width:75%!important;
+    }
+  .tuydug .form-horizontal .controls,#TalkThinkRegis .controls {
+    margin-left: 0%!important;
+    width:100%!important;
+}
+      .tuydug .control-label {
+        height:initial!important; float:left;
+    }
+  .tuydug .control-label {
+    width:100%!important; text-align:left!important;
+}
+  .bo-chuong-trinh-title {
+    border-left: 3px solid #005b99;
+    box-shadow: -3px 4px 5px #f0f0f0;
+    color: #005b99;
+    font-size: 17px;
+    font-weight: bold;
+    height: initial;
+    line-height: 27px;
+    margin-bottom: 21px;
+    width: initial;
+    padding: 5px 10px;
+    margin-top: 30px;
+    padding-left: 15px;
+    line-height: initial;
+    text-transform: uppercase;
+}
+     #hoatdongdaotaomb li { text-align: left;
+    background: #dcdcdc;
+    width: 96%;
+    float: left;
+    list-style: none;
+    padding: 6px 2%;
+    border-bottom: solid 1px #fff;
+    border-right: none;
+    }
+    #dangkythamduchuongtrinh {
+        padding-left:0!important;
+    }
+       #dangkythamduchuongtrinh  .red {
+    color: Red!important;
+    text-align: left;
+    float: left;
+    width: 100%;
+    margin: 10px 0;
+}
+      #dangkythamduchuongtrinh  .controls {
+    margin-left: 0;
+    float: left;
+    width: 100%;
+}
+   #dangkythamduchuongtrinh  .red {
+       float:left;width:100%!important;
+    }
+      #dangkythamduchuongtrinh .control-label {
+    float: left;
+    width: 100%!important;
+    padding-top: 5px;
+    text-align: right;
+}
+       #dangkythamduchuongtrinh   .controls img {
+    float: left!important;
+}
+    #dangkythamduchuongtrinh  .input-xxlarge,#dangkythamduchuongtrinh .input-xlarge, #dangkythamduchuongtrinh  textarea {
+        width:96%!important; padding:0 2%!important;
+        min-height: 30px;
+    }
+     .tintuc-sk1  .article-item-top, .sotay-right-item {
+     width:96%!important; padding:0 2%!important;
+}
+        .sotay-right-item .row-fluid img {
+            width:100%;
+        }
+    .tsdtri span {
+        padding:0!important; margin:0!important;
+    }
+    .dkdaotao .input-xlarge {
+    width: 94%;
+    padding: 5px 2%; margin:0 1%!important;
+}
+    .dkdaotao select {
+    width: 98%!important; margin:0 1%!important;
+    padding: 5px 0%;
+}
+    .share-likes {
+        margin:0!important;
+    }
+}
+@media screen and (max-width:480px) {
+     .ddw .span3 {
+    width: 96%!important;
+    margin: 10px 2%!important;
+}
+    .cac-hoat-dong-dao-tao .hoat-dong-dao-tao-item-title a {
+    font-size: 11.5px;
+}
+    .ulspan7 li {
+    width: 100%!important; margin-bottom:20px;
+}
+    .hanoichuongtrinh .moblie_hide {
+    width:initial!important; display:none!important;
+    }
+    .liul li {
+    float:left;width:100%!important; margin:0!important; padding:10px 0!important;
+    }
+      .liul li label {
+    float:right!important;
+    }
+    .bangianghuan td {
+        float:left!important; height:initial!important;
+        width:96%!important; margin:0!important; padding:10px 2%!important;
+    }
+       .trang1 {
+        float:left;
+        width:97%!important;
+        margin:10px 1%!important; padding:0!important;
+    }
+    .bggui ul > .active {
+     background: none!important;
+}
+    .danh-muc-daotaotheoyeucau ul > .active {
+    background: none;
+}
+    .danh-muc-daotaotheoyeucau {
+            background: #555555;
+    }
+    .danh-muc-daotaotheoyeucau ul li {
+    border-top: none;
+    border-bottom: 1px solid #484848;
+    height: initial;
+    line-height: 40px;
+    text-align: left; 
+    list-style: outside none none;
+}
+    .danh-muc-daotaotheoyeucau ul li.active a {
+    color: #ffca00; font-weight:normal;
+
+}
+     .danh-muc-daotaotheoyeucau ul li a {
+    color: #fff;
+
+}
+    .du-an-sach-hay .span4 {
+        float:left;
+        width:100%!important; margin:0;
+    }
+    .guru-item {
+        float:left;
+        width:100%!important; margin:10px 0!important;
+    }
+      .tu-sach-doanh-tri li {
+        display:inline-table; width:49%; list-style:none; margin:10px 0;
+    }
+    .container-1000 {
+        height:initial!important;
+    }
+     .paddingtop li {
+    padding: 0 0 0 15%!important;
+    display: inline-table;
+    width: 84%;    height: initial;
+}
+    .ulspan7 li {
+    float: left;
+}    .ulspan7 li:last-child {
+    margin-bottom:0!important;
+}
+    .donghanh-item-title a {
+    color: #464646;
+    font-weight: bold;
+    font-size: 13px;
+    margin: 10px auto;
+    float: left;
+    width: 100%;
+}
+ 
+    .tusach {
+        display:none;
+    }
+     .tt1 {
+      width: 100%!important;
+    margin:0 0 10px  0px!important;
+}
+    
+    .row-fluid .span3 {
+        vertical-align: top;
+    }
+   
+
+     .tt2 { width:100%!important; margin:0!important;
+    }
+    .partner-descreption * {
+    font-size: 12px!important;
+}
+
+        .article-item-title a {
+        margin-top: 0px;font-size: 15px;
+    }
+    .doitactoancaucuapace .partner {
+    width: 45%;
+}
+    #fade {
+        display:none;
+    }
+    .home-top-tin {
+     margin-bottom: 0px; 
+}
+
+    .donghanh-item {
+    padding-bottom: 15px;
+    text-align: center;
+}
+    .donghanh-title {
+
+    margin:30px auto  20px auto;
+}
+     .ten-truong {
+        text-align:left!important;
+    }
+    .small {
+        margin-left:10px!important;
+    }
+
+    #ContactForm .control-label {
+    width: 100%!important;
+    float: left!important; text-align:left;
+}
+       #ContactForm .controls {
+    width: 100%!important;
+    float: left!important; margin:0!important;
+}
+       .controls img {
+    float: left!important;
+}
+       .form-lienhe .input-xlarge, #captcha {
+    width: 95%;
+}
+    .ffff {
+        text-align:left!important;
+    }
+       #trangchu .video-new * {
+        width:100%; position:initial!important;
+    }
+    .bookinfo { float:left;
+        width:100%; text-align:center;
+    }
+     #chiTietSach { float:left;
+        width:100%; 
+    }
+     .bookinfo img{
+        float:none; margin:auto;
+    }
+        #chiTietSach p {
+            margin-left:0!important;
+        }
+}
+@media screen and (max-width:420px) {
+     #video ul li {
+    display: inline-block!important;
+    float: none!important;
+    list-style: outside none none!important;
+    /* margin-right: 10px; */
+    padding: 0!important;
+    position: relative!important;
+    width: 98%!important; vertical-align:top;
+    MARGIN: 10PX 0!important;
+}
+    .hnhcm-nb li {
+    float: left;
+    margin: 5px 1%;
+    width: 98%;
+    text-align: center;
+    list-style: none;
+    background: #d6dde0;
+}
+      .w65 {
+        float:none;
+        width:60%!important;
+    }
+    .w35 { width:40%!important; float:none;
+    }
+      .paddingtop li {
+    padding: 0 0 0 17%!important;
+    display: inline-table;
+    width: 82%;    height: initial;
+}
+.donghanh-item-title a {
+
+    font-size: 12px;
+
+}
+
+   
+.ulspan6 li {
+       float: left;
+    line-height: 15px;
+   padding:8px 0; padding-left:3%;
+    border-bottom: 1px solid #484848;
+    width:97%;
+}
+
+.ulspan6 li:last-child{
+     border-bottom: none;
+   
+}
+}
